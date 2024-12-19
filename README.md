@@ -1,10 +1,4 @@
 # Certificates-and-Accomplishments
 ![c8](https://github.com/user-attachments/assets/aefc51c8-35f9-40b8-a4ae-22c9a7cf1246)
-![c1](https://github.com/user-attachments/assets/b651248f-a9f2-4c15-b67c-e8b154dc457e)
-![c2](https://github.com/user-attachments/assets/869c9b08-f793-4f8f-b2f1-cfa713a43e0c)
-![c3](https://github.com/user-attachments/assets/4d68bb5d-37ee-4306-9d3c-f5f041a38931)
-![c4](https://github.com/user-attachments/assets/409aa124-751d-4fa3-b83f-d7f6fe5224c1)
-![c5](https://github.com/user-attachments/assets/d8b84d74-4d8f-4843-9757-5beb8e9672ee)
-![c6](https://github.com/user-attachments/assets/1786a483-234a-4b52-a693-1be72ff8fed8)
-![c7](https://github.com/user-attachments/assets/f23b3c22-ff18-4482-a4db-7a431a4123a0)
+
 ![google-data-analytics-certificate 2 (1)](https://github.com/user-attachments/assets/06b309b9-2364-4544-a63b-a2aa02298f18)
